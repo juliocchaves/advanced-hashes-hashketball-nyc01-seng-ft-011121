@@ -130,5 +130,5 @@ end
 # Write code here
 
 def num_points_scored(players)
-  binding.pry
+  :players[:points]
 end
